@@ -1,0 +1,11 @@
+# Nmap 7.95 scan initiated Mon Aug  4 17:32:18 2025 as: /usr/lib/nmap/nmap -sS -sV -O -p- -oN full_scan_127.txt 192.168.1.127
+Nmap scan report for 192.168.1.127
+Host is up (0.00016s latency).
+All 65535 scanned ports on 192.168.1.127 are in ignored states.
+Not shown: 65535 filtered tcp ports (no-response)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: D-Link DFL-700 firewall (89%), HP Officejet Pro 8500 printer (89%), IBM i 7.4 (89%), ReactOS 0.3.7 (89%), Sanyo PLC-XU88 digital video projector (89%), Sonus GSX9000 VoIP proxy (88%), Asus WL-500gP wireless broadband router (88%), Microsoft Windows 2000 (88%), Microsoft Windows Server 2003 Enterprise Edition SP2 (88%), Microsoft Windows Server 2003 SP2 (88%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Mon Aug  4 17:38:42 2025 -- 1 IP address (1 host up) scanned in 383.81 seconds
